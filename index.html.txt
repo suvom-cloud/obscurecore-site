@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ObscureCore Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ObscureCore Studio</h1>
+    <p class="tagline">Crafting immersive games from the shadows.</p>
+  </header>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>We are an indie game studio creating dark, story-driven, and impactful gaming experiences. Founded by passionate developers, ObscureCore is where unique ideas thrive in silence — until they roar.</p>
+  </section>
+
+  <section class="team">
+    <h2>Our Team</h2>
+    <ul>
+      <li><strong>Suvom Kundu</strong> – Unity Developer, Story Designer</li>
+      <!-- Add other members here -->
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Games in Development</h2>
+    <ul>
+      <li><strong>Shooter Game:</strong> A gritty revenge saga with Ethen ARK in a corrupt city.</li>
+      <li><strong>Blade of Shadows:</strong> A stealth-action game set in a war-torn ancient kingdom.</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:obscurecore.studio@gmail.com">obscurecore.studio@gmail.com</a></p>
+    <p>Discord: <code>SuvomKundu#1234</code></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ObscureCore Studio. All rights reserved.</p>
+  </footer>
+</body>
+</html>
