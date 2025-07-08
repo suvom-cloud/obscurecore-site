@@ -1,2 +1,2 @@
-# obscurecore-site
-ObscureCore Studio official website
+# SYNTHRIX
+SYTHRIX Studio official website
